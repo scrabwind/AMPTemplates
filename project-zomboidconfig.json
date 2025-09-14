@@ -356,7 +356,7 @@
         "IsFlagArgument": false,
         "ParamFieldName": "Map",
         "IncludeInCommandLine": false,
-        "DefaultValue": "Muldraugh, KY",
+        "DefaultValue": "Muldraugh, KY;Fort Knox, KY by Woldren;Otr;Over the River - Secondary Route;vehicle_interior",
         "Placeholder": "Muldraugh, KY",
         "EnumValues": {}
     },
