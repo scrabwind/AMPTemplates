@@ -1856,17 +1856,20 @@
     },
     {
         "DisplayName": "AntiCheat type 12",
-        "Category": "",
-        "Subcategory": "",
+        "Category": "Project Zomboid:stadia_controller",
+        "Subcategory": "Server:dns:1",
         "Description": "For actions mod",
-        "Keywords": "",
+        "Keywords": "cheat",
         "FieldName": "AntiCheatProtectionType12",
-        "InputType": "text",
+        "InputType": "checkbox",
         "IsFlagArgument": false,
         "ParamFieldName": "AntiCheatProtectionType12",
         "IncludeInCommandLine": false,
         "DefaultValue": "false",
         "Placeholder": "true",
-        "EnumValues": {}
+        "EnumValues": {
+            "True": "true",
+            "False": "false"
+        }
     }
 ]
