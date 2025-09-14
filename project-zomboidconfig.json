@@ -147,7 +147,7 @@
         "IsFlagArgument": false,
         "ParamFieldName": "ServerWelcomeMessage",
         "IncludeInCommandLine": false,
-        "DefaultValue": "Welcome to Project Zomboid Multiplayer! <LINE> <LINE> To interact with the Chat panel: press Tab, T, or Enter. <LINE> <LINE> The Tab key will change the target stream of the message. <LINE> <LINE> Global Streams: /all <LINE> Local Streams: /say, /yell <LINE> Special Streams: /whisper, /safehouse, /faction. <LINE> <LINE> Press the Up arrow to cycle through your message history. Click the Gear icon to customize chat. <LINE> <LINE> Happy surviving!",
+        "DefaultValue": "Pierdol sie",
         "EnumValues": {}
     },
     {
@@ -163,7 +163,7 @@
         "IsFlagArgument": false,
         "ParamFieldName": "MaxPlayers",
         "IncludeInCommandLine": false,
-        "DefaultValue": "32",
+        "DefaultValue": "10",
         "Placeholder": "32",
         "Suffix": "players",
         "EnumValues": {}
@@ -371,7 +371,7 @@
         "IsFlagArgument": false,
         "ParamFieldName": "Mods",
         "IncludeInCommandLine": false,
-        "DefaultValue": "",
+        "DefaultValue": "ModManager;ModManagerServer;modoptions;BION_PlainMoodles;ETO_Balanced_mode;mrnvsbhltr;mrnvsbhltr_Optimized;SpnCharCustom;SpnCharCustomDetails;SpnCharCustomDetailsHD;SPNRetexture;SPNRetextureUnderwear;SPNRetextureZombies;SPNRetextureZombiesUnder;TombBodyTex;TombBodyTexDOLL;TombBodyTexNUDE;Fort Knox;Otr;OtrSR;RV_Interior_MP;damnlib;67gt500;69mini;70dodge;82jeepJ10;82oshkoshM911;85merc;86fordE150;86oshkoshP19A;89fordBronco;91range;92fordCVPI;92nissanGTR;tsarslib;ATA_Bus;isoContainers;KI5trailers;RotatorsLib;rWaterTrailer;rWaterTrailerSemi;Swatpack;ModManagerLoadOrderSorter;MoodleFramework;qdx_item_condition;82jeepJ10t;86fordE150dnd;Arsenal(26)GunFighter[MAIN MOD 2.0];Brita;Arsenal(26)Gunfighter2.0&BWP Working Suppressor Full;ArsenalOpenAmmoWalk;B41OpenAmmoWalk;BB_CommonSense;BB_KilometersPerHour;BB_RoadtripRadio;betterGUNJAM;Biofuel;Brita_2;BritaArmorInsulationFix;ChuckleberryFinnAlertSystem;CJOpenAmmoWalk;cleanashes;CleanDirt;ConditionOnDash;darkerMap;EasyConfigChucked;EquipClothingWhileMoving;KillCount;TchernoLib;EvolvingTraitsWorld;FWOBenchPress&Treadmill;FWOFitnessWorkoutOverhaul;GeneratorTimeRemaining;GenRange;Gun Sound Overhaul;Guns93OpenAmmoWalk;HypothermiaKillsHard;lgd_antibodies;MaintenanceImprovesRepair;MapLegendUI;MGRS (FMCCYAYFGLE);MinimalDisplayBars;MoreDescriptionForTraits4166;MutiesContextMenuIcons;MutiesContextMenuIconsStorage;MutiesContextMenuIconsExpanded;MutiesContextMenuIconsRedrawn;OutTheWindow;P4HasBeenRead;ProximityInventory;RainOpenAmmoWalk;RainWash;ReloadAllMagazines;REORDER_CONTAINERS;RV_Interior_Vanilla;SimpleConvertToBritaSRC;SmarterStorage;SwapIt;TMC_TrueActions;TrueCrouching;UBPropFix;VanillaOpenAmmoWalk;VFEOpenAmmoWalk;Arsenal(26)GunFighter;FH;GanydeBielovzki's Frockin Shirts n Ties;GanydeBielovzki's Frockin Splendor! Vol.2;GanydeBielovzki's Frockin Wiseguys;KATTAJ1_ClothesCore;SM4BootsExpanded;SpnCloth;SpnOpenCloth;StalkerArmorPack;Trench_Coat;UndeadSuvivor;VFExpansion1;zReArmorPackBYKK;1VCESTANDARD;69mini_ItalianJob;69mini_MrBean;69mini_PitbullSpecial;86fordE150expanded;86fordE150mm;86fordE150pd;BiofuelPlus;CraftEngineParts;craftingEnhancedCore;DIY_EngineParts;DIY_VehicleParts!;DIY_VehicleParts!_GlassWindow;DrivingSkill;errorMagnifier;EvolvingTraitsWorldMarkDynamicTraits;FireBook;GanydeBielovzki's Frockin Splendor!;GanydeBielovzki's Frockin Splendor! Vol.3;GanydeBielovzki's Frockin Splendor! Vol.4;GydeTraitMags;KATTAJ1_Military;NamedSkillVHSTapes;ReLght;ScavengingSkillFixed;TheWorkshop(new version);ScrapWeapons(new version);SimpleOverhaulTraitsAndOccupations;SpnCharCustomFaces;SpnHair;SPNRetextureCustom;TheEngineer;TheyKnew;TombBody;TombBodyCompat;TombBodyCompatBootsExp;TombBodyCustom;VanillaGearExpanded;wellsConstruction",
         "EnumValues": {}
     },
     {
@@ -385,7 +385,7 @@
         "IsFlagArgument": false,
         "ParamFieldName": "WorkshopItems",
         "IncludeInCommandLine": false,
-        "DefaultValue": "",
+        "DefaultValue": "2694448564;2725216703;2169435993;3008416736;3119788162;2901552077;3124439335;3414634809;3340255334;3429790870;1414568604;926737806;2603239477;2822286426;3171167894;3026723485;2937786633;2873290424;2886832257;2618213077;2469388752;2870394916;2566953935;2886833398;2409333430;2962175696;2846036306;2392709985;2592358528;2625625421;3330403100;2732594572;2732639855;2091564445;3180893708;2859296947;2852309899;2297098490;2200148440;3191317703;2934985376;2875848298;2980583716;3244642872;2980114616;3020894313;2460154811;2931233550;3077900375;2816646537;2711057211;3306168142;2939187818;2529746725;3446510982;2553809727;2986578314;2914075159;2940354599;2883397918;2972289937;3339143387;2955282161;2392676812;2920089312;2710167561;2928660831;2004998206;2685168362;3101668503;3293222249;2659216714;2544353492;2847184718;2657661246;2920899878;2901962885;2696120270;3290232938;2366717227;2487022075;2966176354;2883755057;2447729538;3453676250;3411888105;3538760023;3470422050;2850935956;2684285534;2812326159;2831715402;3272385386;2713921292;2667899942;3038026478;3421271152;2744114761;2923979345;2770498315;2795814840;2721945297;2896041179;2634478805;3307376332;3431256608;3475347500;3342191739;3470426196;2732294885;2780594299;2903135820;2680473910;2122265954;2840805724;2463184726;2906633595;2725378876;3431734923;3401134276;2852690210",
         "EnumValues": {}
     },
     {
@@ -562,7 +562,7 @@
         "MinValue": "1",
         "MaxValue": "300",
         "ParamFieldName": "BackupsCount",
-        "DefaultValue": "5",
+        "DefaultValue": "3",
         "Placeholder": "5",
         "Suffix": "backups",
         "EnumValues": {}
@@ -608,7 +608,7 @@
         "MinValue": "0",
         "MaxValue": "1500",
         "ParamFieldName": "BackupsPeriod",
-        "DefaultValue": "0",
+        "DefaultValue": "60",
         "Placeholder": "0",
         "Suffix": "minutes",
         "EnumValues": {}
@@ -1377,7 +1377,7 @@
         "MinValue": "10",
         "MaxValue": "150",
         "ParamFieldName": "SpeedLimit",
-        "DefaultValue": "70.0",
+        "DefaultValue": "150.0",
         "Placeholder": "70.0",
         "EnumValues": {}
     },
@@ -1392,7 +1392,7 @@
         "IsFlagArgument": false,
         "ParamFieldName": "SleepAllowed",
         "IncludeInCommandLine": false,
-        "DefaultValue": "false",
+        "DefaultValue": "true",
         "EnumValues": {
             "True": "true",
             "False": "false"
@@ -1409,7 +1409,7 @@
         "IsFlagArgument": false,
         "ParamFieldName": "SleepNeeded",
         "IncludeInCommandLine": false,
-        "DefaultValue": "false",
+        "DefaultValue": "true",
         "EnumValues": {
             "True": "true",
             "False": "false"
@@ -1454,7 +1454,7 @@
         "FieldName": "PlayerBumpPlayer",
         "InputType": "checkbox",
         "ParamFieldName": "PlayerBumpPlayer",
-        "DefaultValue": "false",
+        "DefaultValue": "true",
         "EnumValues": {
             "False": "false",
             "True": "true"
@@ -1852,6 +1852,21 @@
         "IncludeInCommandLine": false,
         "DefaultValue": "",
         "Placeholder": "",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "AntiCheat type 12",
+        "Category": "",
+        "Subcategory": "",
+        "Description": "For actions mod",
+        "Keywords": "",
+        "FieldName": "AntiCheatProtectionType12",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "AntiCheatProtectionType12",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "false",
+        "Placeholder": "true",
         "EnumValues": {}
     }
 ]
