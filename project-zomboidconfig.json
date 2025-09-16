@@ -1871,5 +1871,23 @@
             "True": "true",
             "False": "false"
         }
-    }
+    },
+    {
+      "DisplayName": "AntiCheat type 21",
+      "Category": "Project Zomboid:stadia_controller",
+      "Subcategory": "Server:dns:1",
+      "Description": "idk",
+      "Keywords": "cheat",
+      "FieldName": "AntiCheatProtectionType21",
+      "InputType": "checkbox",
+      "IsFlagArgument": false,
+      "ParamFieldName": "AntiCheatProtectionType21",
+      "IncludeInCommandLine": false,
+      "DefaultValue": "false",
+      "Placeholder": "true",
+      "EnumValues": {
+          "True": "true",
+          "False": "false"
+      }
+  }
 ]
