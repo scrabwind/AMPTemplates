@@ -356,7 +356,7 @@
         "IsFlagArgument": false,
         "ParamFieldName": "Map",
         "IncludeInCommandLine": false,
-        "DefaultValue": "vehicle_interior;Muldraugh, KY;Otr;Over the River - Secondary Route;Fort Knox, KY by Woldren;BedfordFalls;North;West;South;Eerie Country;To Bedford Falls;To Eerie Country;Fort Knox linked to Eerie Country",
+        "DefaultValue": "vehicle_interior;Fort Knox linked to Eerie Country;Near Fort Knox;To Bedford Falls;To Eerie Country;BedfordFalls;North;West;South;Eerie Country;Otr;Over the River - Secondary Route;Muldraugh, KY",
         "Placeholder": "Muldraugh, KY",
         "EnumValues": {}
     },
